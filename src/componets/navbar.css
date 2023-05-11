@@ -1,0 +1,23 @@
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     list-style: none;
+     text-decoration: none;
+}
+.nav{
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     height: 80px;
+     margin: 0 100px;
+}
+.right-nav ul{
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+}
+.right-nav ul li a{
+     font-size: 25px;
+     padding: 0 10px;
+}

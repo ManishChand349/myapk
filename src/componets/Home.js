@@ -1,15 +1,9 @@
 import React from "react";
 
-function home() {
+function Home() {
   return (
     <div className="header">
-      <nav>
-        <img src="" alt="" />
-        <h2>Home</h2>
-        <div className="hire">
-          <h2>HireMe</h2>
-        </div>
-      </nav>
+     Home
     </div>
   );
 }
